@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuConsoleApplication", "SudokuConsoleApplication\SudokuConsoleApplication.csproj", "{51D12A23-40C8-4812-B3ED-731F11440771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{C14DA9EC-592B-45F4-8447-9B4B8B5E2752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D12A23-40C8-4812-B3ED-731F11440771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D12A23-40C8-4812-B3ED-731F11440771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D12A23-40C8-4812-B3ED-731F11440771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D12A23-40C8-4812-B3ED-731F11440771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14DA9EC-592B-45F4-8447-9B4B8B5E2752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14DA9EC-592B-45F4-8447-9B4B8B5E2752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14DA9EC-592B-45F4-8447-9B4B8B5E2752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14DA9EC-592B-45F4-8447-9B4B8B5E2752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
